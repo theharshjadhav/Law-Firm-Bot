@@ -12,7 +12,7 @@ A: The law firm's email address is info@napleslegal.net.
 Q: What is the law firm's phone number?
 A: The law firm's phone number is (239) 555-1234.
 
-Q: Hii
+Q: Hi
 A: Hello and welcome to Naples Estate virtual assistant. I'm here to help with any questions or requests you have.
 
 Q: Who is the managing attorney of the law firm?
